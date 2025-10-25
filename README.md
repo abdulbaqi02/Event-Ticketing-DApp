@@ -39,17 +39,17 @@ _onetime setup_
 ### Clone the Project
 
 ```bash
-git clone https://github.com/simibac/ticketing-dapp.git
+git clone https://github.com/abdulbaqi02/Event-Ticketing-DApp.git
 
 # or
 
-git clone git@github.com:simibac/ticketing-dapp.git
+git git@github.com:abdulbaqi02/Event-Ticketing-DApp.git
 ```
 
 ### Set up Client
 
 ```bash
-cd ticketing-dapp/client/
+cd Event Ticketing DApp/client
 npm install
 ```
 _Detailed information can be found here: [README](./client/README.md)._
@@ -93,7 +93,7 @@ _everytime to run the environment_
 1. Pull the latest commits:
    ```bash
    # Terminal Tab #1
-   cd /path/to/ticketing-dapp
+   cd /path/to/Event-Ticketing-DApp
    git pull
    ```
 2. Start local blockchain with `ganache-cli`.
@@ -115,7 +115,7 @@ _everytime to run the environment_
 5. Start the `React` client:
    ```bash
    # Terminal Tab #2
-   cd /path/to/ticketing-dapp/client
+   cd /path/to/Event-Ticketing-DApp/client
    npm install
    npm start
    ```
