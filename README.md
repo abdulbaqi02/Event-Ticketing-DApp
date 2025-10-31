@@ -1,5 +1,5 @@
 # Ticketing dApp
-This is an application for creating events, buy and sell tickets on the Ethereum blockchain. This prototype was developed as part of the "Blockchain" Seminar at QUEST Nawabshah Uiversity.
+This is an application for creating events, buy and sell tickets on the Ethereum blockchain. This prototype was developed as part of the "Blockchain" Seminar at QUEST Nawabshah University.
 
 
 
